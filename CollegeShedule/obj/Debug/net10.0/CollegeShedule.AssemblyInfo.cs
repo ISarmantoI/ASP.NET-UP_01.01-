@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CollegeShedule")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06c265857848ba18ee302cf6f5ed2dc353e9032d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5fb5a02d46e90a3ecf1c279221bcbd6455cee4f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CollegeShedule")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CollegeShedule")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
